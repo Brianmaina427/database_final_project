@@ -37,3 +37,7 @@ NOT NULL: Prevents essential fields from being empty.
 UNIQUE: Guarantees unique values for columns like email addresses.
 
 CHECK: Ensures data validity, e.g., prices and quantities are non-negative.
+
+Usage:
+
+To use this database, simply execute the final project.sql file in a MySQL environment. The script will automatically create the EcommerceDB database and all the necessary tables with their respective constraints.
